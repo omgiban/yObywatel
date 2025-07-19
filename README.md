@@ -2,7 +2,9 @@
 
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska.
 
-https://morleee.github.io/yObywatel
+Projekt zawiera poprawki zwiększające prywatność przesyłanych zdjęć.
+
+https://omgiban.github.io/yObywatel
 
 ### Instrukcja zainstalowania:
 #### Dla systemu IOS:
@@ -13,5 +15,3 @@ https://morleee.github.io/yObywatel
 - Upewnij się, że używasz przeglądarki google lub chrome
 - Uzupełnij dane i kliknij wejdź
 - Naciśji 3 kropki -> Dodaj do ekranu głównego
-
-[Dołącz na naszego discorda](https://discord.gg/EDg7A8sWqm)
